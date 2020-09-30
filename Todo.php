@@ -17,7 +17,7 @@ class Todo
         '完了',
     ];
 
-    // コンストラクタ
+    // construtor
     public function __construct()
     {
         $this->dotenv = Dotenv::createImmutable(__DIR__);

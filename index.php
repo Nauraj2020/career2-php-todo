@@ -31,6 +31,8 @@ if ($_SERVER["REQUEST_METHOD"] === "POST") {
     <title>TODO App</title>
 </head>
 <body>
+<body style="background-color:green;">
+<h2 style="color:black;text-align:center;">
 
 <div class="container">
     <div class="col-md-12">
